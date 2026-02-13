@@ -1,5 +1,5 @@
+/*
 fun function(arg1: Type1, arg2:Type2):returnType{
-    -
     return value/expression
 }
 
@@ -190,3 +190,4 @@ fun drawBox(val rows:Int, val ncols:Int, val c, Char){
 }
 }
 drawBox(20,10,'*')
+*/

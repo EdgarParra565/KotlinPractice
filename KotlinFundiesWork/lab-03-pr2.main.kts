@@ -736,7 +736,7 @@ fun testChooseBank() {
 }
 runEnabledTests(this)
 main()
-*/
+
             "Question:1 Press enter to continue",
             "What river runs alongside Saint Louis?",
             "The correct answer is: Europe. Did you get that right? Yes or No",
@@ -752,4 +752,4 @@ main()
             "You got 2 answer(s) correctly. Bye",
         ),
         "studyQuestionBank myQuestionBank"
-    )
+    )*/
